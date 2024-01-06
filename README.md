@@ -35,7 +35,7 @@
 1. Склонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/your-username/crypto-control.git
+    git clone https://github.com/Petrochenk0/crypto-control.git
     ```
 
 2. Перейдите в директорию проекта:
